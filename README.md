@@ -7,7 +7,7 @@
 Supported by NIH U24-NS120056
 
 
-[Pulseq](https://pulseq.github.io/) is a vendor-independent MR pulse programming platform that allows one to create and analyze MRI sequences in interactive programming environments such as MATLAB or Python and to execute them on hardware using sequence-agnostic interpreters. Mature interpreters for the Pulseq specification now exist for Siemens, GE and United Imaging scanners, with emerging support for Philips and further vendor platforms.
+[Pulseq](https://pulseq.github.io/) is a vendor-independent MR pulse programming platform that allows one to create and analyze MRI sequences in interactive programming environments such as MATLAB or Python and to execute them on hardware using sequence-agnostic interpreters. Mature interpreters for the Pulseq specification now exist for most vendor platforms.
 
 This course will take place over three half-days and will cover the following topical areas:
   * basic Pulseq concepts for beginners;
