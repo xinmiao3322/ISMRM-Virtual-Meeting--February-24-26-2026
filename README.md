@@ -51,8 +51,9 @@ The preliminary program of the Online Meeting:
 |14:55     |15      |Pulseq Interpreter and Workflow on Siemens              |Maxim Zaitsev                      |TBD                  |
 |15:10     |15      |Parallel transmit (pTX) with Pulseq on Siemens          |Dario Bosch                        |TBD                  |
 |15:25     |5       |*Break*                                                 |                                   |                     |
-|15:30     |15      |user projects (TBD)                                     |TBD                                |TBD                  |
-|15:45     |15      |user projects (TBD)                                     |TBD                                |TBD                  |
-|16:00     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu and Di Cui     |TBD                  |
-|16:20     |20      |user projects (TBD)                                     |TBD                                |TBD                  |
-|16:40     |20      |Q/A session & closing remarks                           |Maxim Zaitsev & Jon-Fredrik Nielsen|TBD                  |
+|15:30     |15      |*Some pulseq specialities for some vendor platforms (final title TBD)*|Matteo Cencini       |TBD                  |
+|15:45     |15      |*Some pulseq project (final title TBD)*                 |Qiang Liu                          |TBD                  |
+|16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |TBD                  |
+|16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |TBD                  |
+|16:35     |20      |Cross-vendor implementation of the bSTAR sequence       |Xin Miao                           |TBD                  |
+|16:50     |10      |Closing remarks                                         |Maxim Zaitsev & Jon-Fredrik Nielsen|TBD                  |
