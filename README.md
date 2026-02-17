@@ -22,10 +22,10 @@ The preliminary program of the Online Meeting:
 |time (UTC)|duration|topic                                                   |speaker                            |moderator            |
 |----------|--------|--------------------------------------------------------|-----------------------------------|---------------------|
 |**Day 1** |        |                                                        |                                   |                     |
-|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|TBD                  |
-|14:05     |30      |Basic Pulseq concepts                                   |Maxim Zaitsev                      |TBD                  |
-|14:35     |30      |Working with Pulseq in Matlab                           |Andrea Gaspar / Rita Nunes         |TBD                  |
-|15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |TBD                  |
+|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Jon-Fredrik Nielsen  |
+|14:05     |30      |Basic Pulseq concepts                                   |Maxim Zaitsev                      |Jon-Fredrik Nielsen  |
+|14:35     |30      |Working with Pulseq in Matlab                           |Andrea Gaspar / Rita Nunes         |Jon-Fredrik Nielsen  |
+|15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |Jon-Fredrik Nielsen  |
 |15:35     |5       |*Break*                                                 |                                   |                     |
 |15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |TBD                  |
 |15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |TBD                  |
@@ -33,16 +33,16 @@ The preliminary program of the Online Meeting:
 |16:25     |15      |MRI-nufft                                               |Pierre-Antoine Comby               |TBD                  |
 |16:40     |20      |Interactive Q/A session                                 |Jon-Fredrik Nielsen                |TBD                  |
 |**Day 2** |        |                                                        |                                   |                     |
-|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|TBD                  |
-|14:05     |30      |IP & licensing - how we make MR methodology open source (without getting ourselves in trouble)|Maxim Zaitsev|TBD  |
-|14:35     |30      |PyPulseq                                                |Patrick Schuenke                   |TBD                  |
-|15:05     |30      |Advanced tutorials: data labels and image recon         |Mojtaba Shafiekhani                |TBD                  |
+|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxililian Gram (tbc)|
+|14:05     |30      |IP & licensing - how we make MR methodology open source (without getting ourselves in trouble)|Maxim Zaitsev|Maxililian Gram (tbc)|
+|14:35     |30      |PyPulseq                                                |Patrick Schuenke                   |Maxililian Gram (tbc)|
+|15:05     |30      |Advanced tutorials: data labels and image recon         |Mojtaba Shafiekhani                |Maxililian Gram (tbc)|
 |15:35     |5       |*Break*                                                 |                                   |                     |
-|15:40     |10      |Seqeyes: sequence and trajectory viewer tool            |Xingwang Yong                      |TBD                  |
-|15:50     |10      |Pulseq on Philips II                                    |Will Grissom                       |TBD                  |
-|16:00     |20      |openSPEN                                                |Andreas Holl                       |TBD                  |
-|16:20     |20      |Sustainability of the Pulseq environment and community building|Maxim Zaitsev / Jon-Fredrik Nielsen|TBD           |
-|16:40     |20      |Interactive Q/A session                                 |Maxim Zaitsev                      |TBD                  |
+|15:40     |10      |Seqeyes: sequence and trajectory viewer tool            |Xingwang Yong                      |Yogesh Rathi         |
+|15:50     |10      |Pulseq on Philips II                                    |Will Grissom                       |Yogesh Rathi         |
+|16:00     |20      |openSPEN                                                |Andreas Holl                       |Yogesh Rathi         |
+|16:20     |20      |Sustainability of the Pulseq environment and community building|Maxim Zaitsev / Jon-Fredrik Nielsen|Yogesh Rathi  |
+|16:40     |20      |Interactive Q/A session                                 |Maxim Zaitsev                      |Yogesh Rathi         |
 |**Day 3** |        |                                                        |                                   |                     |
 |14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|TBD                  |
 |14:05     |15      |What's new in Pulseq                                    |Maxim Zaitsev                      |TBD                  |
