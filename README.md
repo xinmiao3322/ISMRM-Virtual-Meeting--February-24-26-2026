@@ -19,7 +19,7 @@ Handouts and tutorials will be stored in this repository. We also invite all par
 
 Advance free-of-charge registration is necessary to be able to attend the webinar and access recoded presentations. Please follow this [link](https://umich.zoom.us/webinar/register/WN_c8679RIIRsqFtvk-CN53Nw) to register.
 
-##Preliminary program: 
+**Preliminary program:**
 
 |time (UTC)|duration|topic                                                   |speaker                            |moderator            |
 |----------|--------|--------------------------------------------------------|-----------------------------------|---------------------|
