@@ -24,17 +24,17 @@ The preliminary program of the Online Meeting:
 |**Day 1** |        |                                                        |                                   |                     |
 |14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Jon-Fredrik Nielsen  |
 |14:05     |30      |Basic Pulseq concepts                                   |Maxim Zaitsev                      |Jon-Fredrik Nielsen  |
-|14:35     |30      |Working with Pulseq in Matlab                           |Andrea Gaspar / Rita Nunes         |Jon-Fredrik Nielsen  |
+|14:35     |30      |Working with Pulseq in Matlab                           |Andrea Gaspar                      |Jon-Fredrik Nielsen  |
 |15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |Jon-Fredrik Nielsen  |
 |15:35     |5       |*Break*                                                 |                                   |                     |
-|15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |TBD                  |
-|15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |TBD                  |
-|16:10     |15      |BART-Pulseq                                             |Daniel Mackner                     |TBD                  |
-|16:25     |15      |MRI-nufft                                               |Pierre-Antoine Comby               |TBD                  |
-|16:40     |20      |Interactive Q/A session                                 |Jon-Fredrik Nielsen                |TBD                  |
+|15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |Andrea Gaspar        |
+|15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |Andrea Gaspar        |
+|16:10     |15      |BART-Pulseq                                             |Daniel Mackner                     |Rita Nunes           |
+|16:25     |15      |MRI-nufft                                               |Pierre-Antoine Comby               |Rita Nunes           |
+|16:40     |20      |Interactive Q/A session                                 |Jon-Fredrik Nielsen                |Rita Nunes           |
 |**Day 2** |        |                                                        |                                   |                     |
 |14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxililian Gram      |
-|14:05     |30      |IP & licensing - how we make MR methodology open source (without getting ourselves in trouble)|Maxim Zaitsev|Maxililian Gram|
+|14:05     |30      |IP & licensing - making MR methodology open source (without getting in trouble)|Maxim Zaitsev|Maxililian Gram|
 |14:35     |30      |PyPulseq                                                |Patrick Schuenke                   |Maxililian Gram      |
 |15:05     |30      |Advanced tutorials: data labels and image recon         |Mojtaba Shafiekhani                |Maxililian Gram      |
 |15:35     |5       |*Break*                                                 |                                   |                     |
@@ -51,9 +51,9 @@ The preliminary program of the Online Meeting:
 |14:55     |15      |Pulseq Interpreter and Workflow on Siemens              |Maxim Zaitsev                      |Sydney Williams      |
 |15:10     |15      |Parallel transmit (pTX) with Pulseq on Siemens          |Dario Bosch                        |Sydney Williams      |
 |15:25     |5       |*Break*                                                 |                                   |                     |
-|15:30     |15      |*Some pulseq specialities for some vendor platforms (final title TBD)*|Matteo Cencini       |TBD                  |
-|15:45     |15      |Pulseq for high-resolution diffusion acquisitions       |Qiang Liu                          |TBD                  |
-|16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |TBD                  |
-|16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |TBD                  |
-|16:35     |20      |Cross-vendor implementation of the bSTAR sequence       |Xin Miao                           |TBD                  |
-|16:50     |10      |Closing remarks                                         |Maxim Zaitsev & Jon-Fredrik Nielsen|TBD                  |
+|15:30     |15      |*Some pulseq specialities for some vendor platforms (final title TBD)*|Matteo Cencini       |Maxim Zaitsev        |
+|15:45     |15      |Pulseq for high-resolution diffusion acquisitions       |Qiang Liu                          |Maxim Zaitsev        |
+|16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |Maxim Zaitsev        |
+|16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |Maxim Zaitsev        |
+|16:35     |20      |Cross-vendor implementation of the bSTAR sequence       |Xin Miao                           |Maxim Zaitsev        |
+|16:50     |10      |Closing remarks                                         |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxim Zaitsev        |
