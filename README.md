@@ -53,7 +53,7 @@ Advance free-of-charge registration is necessary to be able to attend the webina
 |14:55     |15      |Pulseq Interpreter and Workflow on Siemens              |Maxim Zaitsev                      |Sydney Williams      |
 |15:10     |15      |Parallel transmit (pTX) with Pulseq on Siemens          |Dario Bosch                        |Sydney Williams      |
 |15:25     |5       |*Break*                                                 |                                   |                     |
-|15:30     |15      |*Some pulseq specialities for some vendor platforms (final title TBD)*|Matteo Cencini       |Maxim Zaitsev        |
+|15:30     |15      |Prescription-time design of Pulseq sequences on GE      |Matteo Cencini                     |Maxim Zaitsev        |
 |15:45     |15      |Pulseq for high-resolution diffusion acquisitions       |Qiang Liu                          |Maxim Zaitsev        |
 |16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |Maxim Zaitsev        |
 |16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |Maxim Zaitsev        |
