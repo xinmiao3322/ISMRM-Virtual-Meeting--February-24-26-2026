@@ -77,3 +77,41 @@
 | Solicit community feedback (surveys etc)? | No | 8 |
 | | Yes | 50 |
 
+## Poll 3: Medical Product (FDA/CE) Certification
+
+![](poll_day2_3_1.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| Do you think there is a need for a Pulseq organization to pursue FDA/CE certification? | Not yet | 24 |
+| | Yes | 43 |
+
+
+![](poll_day2_3_2.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| Would you be willing to volunteer for such an organization? | Not yet | 34 |
+| | Yes | 28 |
+
+## Poll 4: Medical Product (FDA/CE) Certification
+
+![](poll_day2_4_1.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| Would you/your team consider budgeting for paid support for a Pulseq-based protocol in your next grant proposal? | No, existing community/developer support is sufficient | 22 |
+| | Yes | 25 |
+
+
+![](poll_day2_4_2.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| If yes, what would you consider a reasonable maximum annual fee (US dollars)? | $1,000 | 11 |
+| | $5,000 | 12 |
+| | $10,000 | 5 |
+| | $15,000 | 3 |
+
+**weighted average supporters:	$7,129**
+**weighted average overall :	$4,170** (including non-supporters with $0)
