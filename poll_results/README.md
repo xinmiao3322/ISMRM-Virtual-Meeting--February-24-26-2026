@@ -114,4 +114,5 @@
 | | $15,000 | 3 |
 
 **weighted average supporters:	$7,129**
+
 **weighted average overall :	$4,170** (including non-supporters with $0)
