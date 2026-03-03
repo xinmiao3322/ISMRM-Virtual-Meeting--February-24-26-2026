@@ -116,3 +116,58 @@
 **weighted average supporters:	$7,129**
 
 **weighted average overall :	$4,170** (including non-supporters with $0)
+
+# Poll Results Day 3
+
+## Poll 1: Subjects, Objects and Field Strengths
+
+![](poll_day3_1_1.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| Does your work involve humans, animals, or neither? | Animals | 3 |
+| | Humans | 87 |
+| | Humans & Animals | 17 |
+| | Humans | 3 |
+
+
+![](poll_day3_1_2a.png)
+![](poll_day3_1_2b.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| What vendor platform(s) do you usually work on? | Bruker | 19 |
+| | GE | 22 |
+| | Philips | 13 |
+| | Siemens | 89 |
+| | United Imaging | 4 |
+| | Other | 4 |
+
+
+![](poll_day3_1_3a.png)
+![](poll_day3_1_3b.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| What field strengths do you usually work at? | Bruker | 19 |
+| | 0.55T | 9 |
+| | 1.5T | 18 |
+| | 3T | 85 |
+| | 5T | 2 |
+| | 7T | 33 |
+| | Above 7T | 13 |
+| | Industrial <0.55T | 3 |
+| | ULF / home.built | 5 |
+
+
+![](poll_day3_1_4a.png)
+![](poll_day3_1_4b.png)
+
+| Question | Answers | Counts |
+|----------|---------|--------|
+| If we do another webinar in the future, what would you like to see more of? | Hands-on exercises/tutorials | 65 |
+| | Presentations by core toolkit developers | 57 |
+| | Presentations by Pulseq users | 60 |
+| | Other | 4 |
+
+*free text comments are not disclosed for privacy reasons (and probably because the organizers are little bit embarrassed by overwhelmingly possitive feedback)*
