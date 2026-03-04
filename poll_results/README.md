@@ -95,7 +95,7 @@ Jump to [Day 3](#poll-results-day-3)
 | Would you be willing to volunteer for such an organization? | Not yet | 34 |
 | | Yes | 28 |
 
-## Poll 4: Medical Product (FDA/CE) Certification
+## Poll 4: Paid Pulseq Support Model
 
 ![](img/poll_day2_4_1.png)
 
