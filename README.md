@@ -19,7 +19,10 @@ Handouts and tutorials will be stored in this repository. We also invite all par
 
 Advance free-of-charge registration is necessary to be able to attend the webinar and access recoded presentations. **registration is closed**
 
-## Preliminary program:
+## Poll Results:
+See results of the polls amongst the workshop attendees [here](poll_results).
+
+## Workshop Program:
 
 |time (UTC)|duration|topic                                                   |speaker                            |moderator            |
 |----------|--------|--------------------------------------------------------|-----------------------------------|---------------------|
