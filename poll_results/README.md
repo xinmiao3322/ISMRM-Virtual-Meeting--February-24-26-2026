@@ -3,7 +3,7 @@ Jump to [Day 3](#poll-results-day-3)
 
 ## Poll 1: Community Effort to Harmonize API
 
-![](poll_day2_1_1.png)
+![](img/poll_day2_1_1.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -11,7 +11,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 82 |
 
 
-![](poll_day2_1_2.png)
+![](img/poll_day2_1_2.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -19,7 +19,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 81 |
 
 
-![](poll_day2_1_3.png)
+![](img/poll_day2_1_3.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -30,7 +30,7 @@ Jump to [Day 3](#poll-results-day-3)
 
 ## Poll 2: ISMRM Study Group and Activities
 
-![](poll_day2_2_1.png)
+![](img/poll_day2_2_1.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -38,7 +38,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 47 |
 
 
-![](poll_day2_2_2.png)
+![](img/poll_day2_2_2.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -47,7 +47,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Neither | 10 |
 
 
-![](poll_day2_2_3.png)
+![](img/poll_day2_2_3.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -55,7 +55,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 46 |
 
 
-![](poll_day2_2_4.png)
+![](img/poll_day2_2_4.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -63,7 +63,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 58 |
 
 
-![](poll_day2_2_5.png)
+![](img/poll_day2_2_5.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -71,7 +71,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 48 |
 
 
-![](poll_day2_2_6.png)
+![](img/poll_day2_2_6.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -80,7 +80,7 @@ Jump to [Day 3](#poll-results-day-3)
 
 ## Poll 3: Medical Product (FDA/CE) Certification
 
-![](poll_day2_3_1.png)
+![](img/poll_day2_3_1.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -88,7 +88,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 43 |
 
 
-![](poll_day2_3_2.png)
+![](img/poll_day2_3_2.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -97,7 +97,7 @@ Jump to [Day 3](#poll-results-day-3)
 
 ## Poll 4: Medical Product (FDA/CE) Certification
 
-![](poll_day2_4_1.png)
+![](img/poll_day2_4_1.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -105,7 +105,7 @@ Jump to [Day 3](#poll-results-day-3)
 | | Yes | 25 |
 
 
-![](poll_day2_4_2.png)
+![](img/poll_day2_4_2.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -122,7 +122,7 @@ Jump to [Day 3](#poll-results-day-3)
 
 ## Poll 1: Subjects, Objects and Field Strengths
 
-![](poll_day3_1_1.png)
+![](img/poll_day3_1_1.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -132,8 +132,8 @@ Jump to [Day 3](#poll-results-day-3)
 | | Humans | 3 |
 
 
-![](poll_day3_1_2a.png)
-![](poll_day3_1_2b.png)
+![](img/poll_day3_1_2a.png)
+![](img/poll_day3_1_2b.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -145,8 +145,8 @@ Jump to [Day 3](#poll-results-day-3)
 | | Other | 4 |
 
 
-![](poll_day3_1_3a.png)
-![](poll_day3_1_3b.png)
+![](img/poll_day3_1_3a.png)
+![](img/poll_day3_1_3b.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
@@ -163,8 +163,8 @@ Jump to [Day 3](#poll-results-day-3)
 
 ## Poll 2: Wishes for Future Workshops
 
-![](poll_day3_1_4a.png)
-![](poll_day3_1_4b.png)
+![](img/poll_day3_1_4a.png)
+![](img/poll_day3_1_4b.png)
 
 | Question | Answers | Counts |
 |----------|---------|--------|
